@@ -1,0 +1,7 @@
+.dribble-thumbnail {
+    margin: 10px;
+    box-sizing: border-box;
+    position: relative;
+    z-index: 1;
+    transition: opacity 1s, transform 2s;
+}

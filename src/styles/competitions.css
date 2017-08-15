@@ -1,0 +1,8 @@
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.hide-class {
+    opacity: 0;
+}

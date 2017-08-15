@@ -1,0 +1,53 @@
+.gallery-container{
+    width: 100%;
+    height: 80vh;
+    background-color: white;
+
+}
+
+.gallery{
+    max-width: 980px;
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+    position: relative;
+    justify-content: space-around;
+}
+
+.viewport-container{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    left: 0;
+    z-index: -1;
+}
+
+.viewport{
+    height: 100vh;
+    padding: 60px;
+    box-sizing: border-box;
+    display: grid;
+}
+.viewport img{
+    transform-origin: 0 0;
+    will-change: transform;
+}
+.close-button{
+    color: black;
+    position: fixed;
+    top: 0;
+    right: 0;
+    font-size: 40px;
+    margin: 20px;
+    z-index: 99;
+}
+
+.portrait{
+    height:100%;
+    margin: auto;
+}
+
+.landscape{
+    width:100%;
+    margin: auto;
+}

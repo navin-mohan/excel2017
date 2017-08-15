@@ -1,0 +1,9 @@
+[
+	{
+		"id": "swarm-robotics",
+		"title": "Swarm Robotics",
+		"overview": "<h3>Swarm</h3><p>A field of robotics technology in which groups of robots communicate with each other to carry out task more efficiently compared to a single robot carrying out the same task.The workshops will introduce the basics of swarm robotics by making two robots to communicate with each other.</p><h3>Conducted by</h3><p>HT india Labs-HT india are an organization who specializes in training students in latest trends in the tech space.They have specialized trainers who conducts workshops and training in several colleges across India. Conducted workshops in MEC during EXCEL 2016. IIT Madras ,IIT Kanpur,IIT Guwahati,IIT BHU are several institutes in which HT India haveconducted workshops.</p>",
+		"schedule": "<h3>Day 1</h3><ul><li><p>Introduction to robot</p></li><li><p>AVR series Microcontrollers</p></li><li><p>Programming AVR</p></li><li><p>Interface of Sensors</p></li><li><p>Actuators</p></li><li><p>Motor drivers</p></li><li><p>Programming and running line following robot algorithms</p></li><li><p>Introduction to swarm robots</p></li></ul><h3>Day 2</h3><ul><li><p>Wireless communication concepts</p></li><li><p>Working with CC2500 Wireless Transceiver module</p></li><li><p>Programming and running grid solving algorithms on robot</p></li><li><p>Communication between two robots</p></li><li><p>Detecting obstacle on the grid</p></li></ul>",
+		"particulars": "<h3>Notes</h3><ul><li><p>Laptops and Charger</p></li><li><p>2 Day Hands on workshop</p></li><li>Date: 19,20 August 2017</p></li><li><p>Timing: 9:30 am to 4:30 pm (tentative)</p></li><li><p>Venue-Auditorium,Media Hall</p></li><li><p>Cost: 1200 per person-Kit to be given to a group of 5</p></li></ul>"
+	}
+]

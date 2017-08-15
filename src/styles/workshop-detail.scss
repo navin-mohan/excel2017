@@ -1,0 +1,42 @@
+.workshop-container p {
+	text-align: justify;
+}
+.workshop-container h2,
+.workshop-container h3 {
+	text-align: center;
+}
+
+.workshop-container {
+	margin-top: 20px;
+	img {
+		margin: auto;
+		width: 60%;
+		display: block;
+	}
+	button {
+		margin: 30px auto;
+		display: block;
+		border: none;
+		background-color: white;
+		padding: 5px;
+		box-shadow: 0 0 5px rgba(0, 0, 0, 0.6);
+		font-size: 18px;
+		border-radius: 5px;
+		color: rgba(0, 0, 0, 0.7);
+		width: 150px;
+		transition: box-shadow 0.1s;
+	}
+	button:focus,
+	button:active {
+		box-shadow: none;
+	}
+	@media (min-width: 1000px) {
+		margin-top: 0;
+		img {
+			width: 20%;
+		}
+		button {
+			margin: 35px auto;
+		}
+	}
+}

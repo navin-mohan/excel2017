@@ -1,0 +1,16 @@
+.coming-soon-container {
+	img {
+		width: 150%;
+		position: absolute;
+		left: -25%;
+	}
+	@media (min-width: 600px) {
+		img {
+			width: unset;
+			margin: auto;
+			position: relative;
+			left: unset;
+			display: block;
+		}
+	}
+}

@@ -1,0 +1,8 @@
+.gallery-thumbnail{
+    width: 30%;
+    margin: auto 0;
+    position: absolute;
+}
+.gallery-thumbnail>img{
+    width: 100%;
+}
